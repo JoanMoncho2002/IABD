@@ -16,3 +16,4 @@ Entramos en el PowerShell de Windows y colocamos el comando pip "install request
 ![image](https://github.com/JoanMoncho2002/Instalacion-Python/assets/92027740/674030d4-4787-4710-998b-7a6e2383d1af)
 
 
+![image](https://github.com/JoanMoncho2002/IABD/assets/92027740/df1a5e66-c470-4740-aedb-c4daa72a26bf)
